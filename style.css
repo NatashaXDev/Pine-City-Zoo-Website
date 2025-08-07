@@ -93,6 +93,7 @@ a.info-box {
   margin: auto;
   margin-top: 12px;
   padding: 1px;
+  overflow: hidden;
 }
 .info-box img {
   height: 70px;
