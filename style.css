@@ -5,6 +5,12 @@ body {
   box-sizing: border-box;
   font-family: Helvetica;
 }
+
+/* Apply box-sizing to all elements */
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 #header {
   position: fixed;
   top: 0;
