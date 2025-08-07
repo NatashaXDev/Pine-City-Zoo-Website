@@ -119,8 +119,8 @@ a.info-box {
 .info-box img.right {
   float: right;
   margin-top: 25px;
-  height: 40px;
-  max-width: 20px;
+  height: auto;
+  max-width: 30px;
 }
 
 /*============= INFO BOX FULL =========*/
